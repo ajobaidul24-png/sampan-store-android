@@ -1,0 +1,2 @@
+আপনার সম্পূর্ণ HTML অ্যাপটি index.html নামে এই ফোল্ডারে রাখুন।
+তারপর docs/backup-integration.js-এর কোড index.html-এ যুক্ত করুন এবং docs/backup-buttons.html-এর বাটন দুটি অ্যাপের উপযুক্ত স্থানে বসান।
